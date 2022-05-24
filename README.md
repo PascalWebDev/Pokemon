@@ -1,2 +1,3 @@
 # Pokemon
-Pokemon in a textadventure
+
+Pokemon in a textadventure, coded with Python
